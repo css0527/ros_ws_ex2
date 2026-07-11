@@ -1,0 +1,3 @@
+[0.010s] Invoking command in '/home/c/ros_ws/src/build/rm_gimbal_description': CMAKE_PREFIX_PATH=/opt/ros/humble /home/c/.local/bin/cmake /home/c/ros_ws/src/\URDF模型 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/c/ros_ws/src/install/rm_gimbal_description
+[0.011s] [0mCMake Error: The source directory "/home/c/ros_ws/src/URDF模型" does not exist.
+[0.011s] Specify --help for usage, or press the help button on the CMake GUI.[0m

@@ -1,0 +1,1 @@
+/home/c/ros_ws/src/ros2-hik-camera/launch/hik_camera.launch.py

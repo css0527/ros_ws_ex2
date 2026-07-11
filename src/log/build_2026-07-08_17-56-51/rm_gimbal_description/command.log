@@ -1,0 +1,1 @@
+Invoking command in '/home/c/ros_ws/src/build/rm_gimbal_description': CMAKE_PREFIX_PATH=/opt/ros/humble /home/c/.local/bin/cmake /home/c/ros_ws/src/\URDF模型 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/c/ros_ws/src/install/rm_gimbal_description

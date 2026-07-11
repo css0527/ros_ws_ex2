@@ -1,0 +1,4 @@
+[0.010s] Invoking command in '/home/c/ros_ws/src/build/hik_camera': CMAKE_PREFIX_PATH=/opt/ros/humble /home/c/.local/bin/cmake /home/c/ros_ws/src/\相机驱动 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/c/ros_ws/src/install/hik_camera
+[0.011s] [0mCMake Error: The source directory "/home/c/ros_ws/src/相机驱动" does not exist.
+[0.011s] Specify --help for usage, or press the help button on the CMake GUI.[0m
+[0.013s] Invoked command in '/home/c/ros_ws/src/build/hik_camera' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /home/c/.local/bin/cmake /home/c/ros_ws/src/\相机驱动 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/c/ros_ws/src/install/hik_camera

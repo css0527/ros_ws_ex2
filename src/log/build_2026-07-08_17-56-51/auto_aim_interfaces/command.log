@@ -1,0 +1,1 @@
+Invoking command in '/home/c/ros_ws/src/build/auto_aim_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /home/c/.local/bin/cmake /home/c/ros_ws/src/\自瞄/auto_aim_interfaces -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/c/ros_ws/src/install/auto_aim_interfaces

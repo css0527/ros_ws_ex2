@@ -1,0 +1,3 @@
+[0.014s] Invoking command in '/home/c/ros_ws/src/build/auto_aim_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /home/c/.local/bin/cmake /home/c/ros_ws/src/\自瞄/auto_aim_interfaces -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/c/ros_ws/src/install/auto_aim_interfaces
+[0.018s] [0mCMake Error: The source directory "/home/c/ros_ws/src/自瞄/auto_aim_interfaces" does not exist.
+[0.018s] Specify --help for usage, or press the help button on the CMake GUI.[0m
