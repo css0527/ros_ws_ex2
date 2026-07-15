@@ -1,9 +1,0 @@
-/home/c/ros_ws/build/rm_auto_aim/CMakeFiles/uninstall.dir
-/home/c/ros_ws/build/rm_auto_aim/CMakeFiles/rm_auto_aim_uninstall.dir
-/home/c/ros_ws/build/rm_auto_aim/CMakeFiles/test.dir
-/home/c/ros_ws/build/rm_auto_aim/CMakeFiles/edit_cache.dir
-/home/c/ros_ws/build/rm_auto_aim/CMakeFiles/rebuild_cache.dir
-/home/c/ros_ws/build/rm_auto_aim/CMakeFiles/list_install_components.dir
-/home/c/ros_ws/build/rm_auto_aim/CMakeFiles/install.dir
-/home/c/ros_ws/build/rm_auto_aim/CMakeFiles/install/local.dir
-/home/c/ros_ws/build/rm_auto_aim/CMakeFiles/install/strip.dir

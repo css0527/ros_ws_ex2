@@ -1,1 +1,0 @@
-/home/c/ros_ws/src/rm_auto_aim/auto_aim_interfaces/msg/TrackerInfo.msg

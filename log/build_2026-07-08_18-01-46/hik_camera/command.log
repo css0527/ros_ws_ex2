@@ -1,6 +1,0 @@
-Invoking command in '/home/c/ros_ws/build/hik_camera': CMAKE_PREFIX_PATH=/opt/ros/humble /home/c/.local/bin/cmake /home/c/ros_ws/src/ros2-hik-camera -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/c/ros_ws/install/hik_camera
-Invoked command in '/home/c/ros_ws/build/hik_camera' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/c/.local/bin/cmake /home/c/ros_ws/src/ros2-hik-camera -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/c/ros_ws/install/hik_camera
-Invoking command in '/home/c/ros_ws/build/hik_camera': CMAKE_PREFIX_PATH=/opt/ros/humble /home/c/.local/bin/cmake --build /home/c/ros_ws/build/hik_camera -- -j12 -l12
-Invoked command in '/home/c/ros_ws/build/hik_camera' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/c/.local/bin/cmake --build /home/c/ros_ws/build/hik_camera -- -j12 -l12
-Invoking command in '/home/c/ros_ws/build/hik_camera': CMAKE_PREFIX_PATH=/opt/ros/humble /home/c/.local/bin/cmake --install /home/c/ros_ws/build/hik_camera
-Invoked command in '/home/c/ros_ws/build/hik_camera' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/c/.local/bin/cmake --install /home/c/ros_ws/build/hik_camera

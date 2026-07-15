@@ -1,1 +1,0 @@
-/home/c/ros_ws/build/auto_aim_interfaces/rosidl_generator_rs/auto_aim_interfaces/rust/src/lib.rs
